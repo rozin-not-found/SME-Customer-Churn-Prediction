@@ -1,0 +1,209 @@
+Company Name,Industry Sector,Company Size,Service Quality Rating,Pricing Satisfaction,Customer Support Rating,Number of Customer Engagement,Customer Engagement Score,Competitive Offers Encountered ,Contractual Term Length (Months),Market Trend Impact,Customer Churn Status,Customer Age Group,Customer Gender,PIC
+Wasapower Marketing Sdn Bhd,Publication,50,,,,5,9,Yes,24,Neutral,,,Female,
+Hamidah Thoibah Enterprise ,Services ,3,5,5,4,3,6,No,12,Neutral,Yes,25 - 34,Female,Yaya
+Rizki Global (M) Sdn Bhd ,Services ,4,4,5,4,1,3,No,24,Neutral,Yes,35 - 44,Male,Meryl
+Badan Pengurusan Kondo Derozelle,Services ,3,4,5,4,1,2,No,12,Neutral,Yes,35 - 44,Male,Meryl
+Nuhayra Enterprise,Services ,5,3,5,4,2,5,No,12,Negative,Yes,25 - 34,Male,Yaya
+Glamz Deco Resources,Services ,10,4,5,4,2,2,No,12,Positive,Yes,35 - 44,Male,Farah
+Raed Dental Lab ,Dental,2,4,5,4,4,10,No,12,Negative,Yes,25 - 34,Prefer Not To Say,Haziq
+Pen Sutera Services Sdn Bhd ,Services ,12,4,5,4,6,10,No,12,Positive,Yes,45 - 64,Prefer Not To Say,Haziq
+Pen Sutera Bikers Sdn Bhd,Services ,2,3,5,4,6,10,No,12,Positive,Yes,45 - 64,Prefer Not To Say,Haziq
+Pen Sutera Sdn Bhd,Services ,7,3,5,4,6,10,No,12,Positive,Yes,45 - 64,Prefer Not To Say,Haziq
+Qarah (M) Sdn Bhd ,Construction,5,4,5,4,3,5,No,12,Positive,Yes,45 - 64,Prefer Not To Say,Haziq
+MO Healthcare Sdn Bhd,Healthcare,5,3,4,4,1,4,No,12,Neutral,Yes,,,Hadi
+Hoovesgang Ventures Sdn Bhd,Services ,10,4,5,4,3,6,No,12,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+Ara Global Legacy,Technologies,5,4,5,4,3,3,No,24,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+Lthmia Associates,Services ,10,3,5,4,3,5,No,12,Neutral,Yes,25 - 34,Male,Nisa
+iO Empire Resources,Service,10,3,5,4,3,5,No,15,Neutral,Yes,35 - 44,Male,Aini
+Os Startup Sdn Bhd,Services,10,5,5,4,2,4,No,12,Neutral,Yes,35 - 44,Prefer Not To Say,Farah
+Klinik Pergigian Impian,Dental,20,5,5,4,3,4,No,12,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+XM Cat Hotel ,Service,4,4,5,4,3,3,No,48,Positive,Yes,35 - 44,Prefer Not To Say,Farah
+DIGITAL ECHELON SKY,Services,10,4,5,4,3,6,No,12,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+Afiq Azman Enterprise,Electronics,7,4,5,4,2,1,No,12,Neutral,Yes,25 - 34,Male,Alib
+HQ HE & SHE,F&B,27,5,4,4,5,10,Yes,12,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+PAVE ENGINEERING & CONSTRUCTION,Construction,4,3,4,4,4,5,No,12,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+Gerobok Myra ,Boutique,11,5,5,4,1,1,No,12,Neutral,Yes,35 - 44,Female,Alib
+TERAPI AL HIKMAH ENTERPRISE ,Medical,6,5,5,4,5,4,No,12,Positive,Yes,35 - 44,Prefer Not To Say,Haziq
+DARENA HOLDING SDN BHD,Retail,10,4,5,4,5,3,No,12,Positive,Yes,35 - 44,Prefer Not To Say,Haziq
+SABAQWAY ENTERPRISE ,Food,15,4,5,4,7,6,No,6,Neutral,Yes,25 - 34,Male,Faiz
+ATR GLOBAL SDN BHD,Services,10,4,5,4,5,10,No,11,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+SMBO Group Sdn Bhd (Madupot),Hr & Finance,10,4,5,4,2,1,No,12,Neutral,Yes,25 - 34,Male,Faiz
+Firdaus Profumo Empire (M) Sdn Bhd,Fashion,5,4,5,4,3,2,No,12,Neutral,Yes,25 - 34,Female,Alib
+CAHAYA NUR HOLIDAYS (M) SDN BHD,Services,20,4,5,4,2,1,No,12,Neutral,Yes,25 - 34,Male,Alib
+MECHATIC SOLUTIONS SDN BHD,Services,5,5,5,4,1,1,No,12,Neutral,Yes,35 - 44,Male,Alib
+Medan Kembara AAY Sdn Bhd,Construction,30,4,5,4,3,3,No,12,Positive,Yes,25 - 34,Female,Zakiyah
+Sudi Mampir Senario II Kubota ,Agriculture,35,4,5,4,5,2,No,12,Neutral,Yes,35 - 44,Male,Zakiyah
+Nas Accessories & Aircond Service Sdn Bhd,Services,6,3,4,4,6,6,Yes,12,Neutral,Yes,25 - 34,Male,Aisyah
+ROSLAHU ENTERPRISE,Services,5,3,4,4,1,1,No,12,Neutral,Yes,45 - 64,Male,Alib
+MKS WORKS VENTURE SDN BHD,Services,6,3,4,4,2,2,No,12,Neutral,Yes,25 - 34,Male,Alib
+RIZQ IDEA RESOURCES,Food & Beverages,5,3,4,4,2,1,No,12,Neutral,Yes,25 - 34,Male,Alib
+ASD Ehsan Food Industries Sdn Bhd,Food & Beverages,10,4,3,4,1,1,No,12,Neutral,Yes,35 - 44,Male,Alib
+MDAN NA ENTERPRISE,Services,5,4,3,4,1,1,No,1,Neutral,Yes,25 - 34,Male,Alib
+SYAF MANAGEMENT SERVICES,Services,5,3,5,4,2,8,No,12,Neutral,Yes,,Female,Faiz
+ASHDEN PRO GLOBAL,Food & Beverages,20,4,5,4,4,1,No,12,Positive,Yes,35 - 44,Male,Zakiyah
+DESA MURNI BATIK DUNGUN (PART TIME),Services,6,5,5,4,1,1,No,1,Negative,Yes,25 - 34,Female,Alib
+ASHDEN PRO GLOBAL ENTERPRISE,Food & Beverages,20,4,5,4,4,1,No,12,Positive,Yes,35 - 44,Male,Zakiyah
+Houri Group Sdn Bhd,Education,45,3,4,4,6,5,No,12,Negative,Yes,35 - 44,Female,Najiha
+syarikat medong maju,Fabrication,5,4,5,3,1,1,No,1,Neutral,Yes,25 - 34,Male,Alib
+Lemari Azie ,wholesaler,10,4,5,4,6,5,No,12,Negative,Yes,35 - 44,Female,Najiha
+Celynda Enterprise,Fashion,8,4,5,4,3,3,No,1,Negative,Yes,25 - 34,Male,Alib
+Ilezhusna ,wholesaler,10,4,3,4,6,5,No,12,Negative,Yes,35 - 44,Female,Najiha
+Ah Mapping,Technology,23,4,4,4,5,8,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+H&A GLOBAL ENTERPRISE,Services,2,4,5,4,3,4,No,7,Neutral,Yes,25 - 34,Female,Faiz
+UNIK SOLUTION ENTERPRISE,Services,15,4,5,4,2,3,No,3,Neutral,Yes,35 - 44,Female,Faiz
+Inqaz travel & Tour sdn bhd,Travel,10,4,4,4,5,5,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+KLINIK PAKAR MATA MUTIARA SDN BHD,Clinic,7,4,3,4,2,2,No,2,Neutral,Yes,,Male,Faiz
+TERAPI ROHANI RESOURCES,Services,8,4,5,4,2,2,No,2,Neutral,Yes,,Female,Faiz
+THT GROUP ENTERPRISE,Education,7,4,4,3,2,3,No,10,Neutral,Yes,25 - 34,Male,Faiz
+TACG PROWORKS,Automotive,5,4,3,3,2,3,No,4,Neutral,Yes,,Prefer Not To Say,Faiz
+RED AMBULANCE SERVICES SDN BHD,Services,6,4,5,3,3,5,No,13,Neutral,Yes,45 - 64,Male,Faiz
+MHM HANI ENTERPRISE,Wholesale & Retail,47,4,4,4,2,6,No,10,Neutral,Yes,35 - 44,Male,Faiz
+SATAY WARISAN AYAHBONDA,Food,7,5,5,4,4,6,No,9,Neutral,Yes,35 - 44,Female,Faiz
+MAY HEALTHCARE GROUP SDN BHD,Healthcare,2,5,4,4,2,8,No,2,Neutral,Yes,25 - 34,Male,Faiz
+Tadika Professor Cilik,Education,30,5,2,4,5,6,Yes,12,Neutral,Yes,25 - 34,Prefer Not To Say,Aisyah
+SPARKLES GROUP SDN BHD ,Technology,9,4,5,3,3,4,No,6,Neutral,Yes,25 - 34,Female,Aini
+Beqbeq Industries Sdn Bhd ,Food,10,4,5,4,4,2,No,4,Neutral,Yes,35 - 44,Prefer Not To Say,Anis
+RANK MARK (M) SDN BHD,Dental,10,4,5,4,3,2,No,18,Neutral,Yes,25 - 34,Female,Anis
+Honesta Sdn Bhd,Services ,9,4,5,3,1,3,No,4,Neutral,Yes,25 - 34,Male,Meryl
+MIGHTY FORK SERVICES,Services,6,5,5,4,3,4,No,10,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+Isyqu Zone,wholesaler,11,4,5,4,9,10,No,7,Positive,Yes,25 - 34,Female,Najiha
+PANDE MEDIA (M) SDN BHD,Technologies,3,4,5,4,3,5,No,9,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+Elmeza Group Holdings Sdn Bhd,wholesaler,4,4,5,4,5,5,No,5,Neutral,Yes,35 - 44,Male,Najiha
+LB Wira Sdn Bhd,Services,5,4,5,4,7,7,No,1,Neutral,Yes,45 - 64,Male,Najiha
+Pharmaco Health Sdn Bhd,Healthcare,6,4,5,4,7,7,No,9,Positive,Yes,35 - 44,Female,Najiha
+Zuuwa Waterproofing Ventures (6 Months),Services,7,4,5,4,10,10,No,7,Positive,Yes,35 - 44,Female,Najiha
+Anasri Legacy (6 Months),fashion ,2,4,5,4,10,10,No,24,Positive,Yes,35 - 44,Female,Najiha
+Majeur Group Sdn Bhd,Construction,5,4,5,4,8,8,No,5,Positive,Yes,35 - 44,Male,Najiha
+SR Creative Print,Services,4,3,5,4,8,8,No,8,Positive,Yes,35 - 44,Female,Najiha
+Akelinee Deco,Services,2,3,5,4,10,10,No,6,Positive,Yes,35 - 44,Female,Najiha
+LK Holding Sdn Bhd,Construction,6,3,5,4,2,2,No,1,Neutral,Yes,25 - 34,Male,Alib
+Large Scale Construction Sdn Bhd,Construction,15,3,5,3,1,1,No,1,Neutral,Yes,35 - 44,Male,Alib
+Shaz Av Trading,Trading,3,3,5,4,2,2,No,1,Neutral,Yes,35 - 44,Male,Alib
+INSIGHT ENGINEERING SERVICES SDN BHD,Services,19,3,5,4,2,2,No,12,Neutral,Yes,25 - 34,Male,Alib
+TWO BIG HEART SDN. BHD.,Healthcare,20,4,5,4,2,6,No,6,Neutral,Yes,25 - 34,Male,Faiz
+Perkasa Majujaya Sdn Bhd,Services,12,3,5,4,6,7,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+SKYRIAN SDN BHD,Wholesaler,5,3,4,4,4,7,No,12,Neutral,Yes,25 - 34,Male,Zakiyah
+Hytera X Sdn Bhd,Technology,7,4,5,4,13,7,Yes,12,Neutral,Yes,25 - 34,Prefer Not To Say,Aisyah
+Klinik Doktor Pergigian Low,Dental,3,3,4,4,5,7,Yes,12,Neutral,Yes,25 - 34,Prefer Not To Say,Aisyah
+Pro global empire sdn bhd,Technology,9,4,5,4,5,7,Yes,12,Neutral,Yes,25 - 34,Prefer Not To Say,Aisyah
+Aleyya Sdn Bhd,wholesaler,3,4,4,4,5,7,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+Jeppters ,Technology,3,3,5,4,6,7,Yes,12,Neutral,Yes,25 - 34,Prefer Not To Say,Aisyah
+BMP ENGINEERING,Machinery & equipment,5,4,3,4,6,7,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+Inspirasi Hana sdn bhd,Boutique,8,4,3,4,6,7,Yes,12,Neutral,Yes,25 - 34,Prefer Not To Say,Aisyah
+Keluarga Zah Enterprise ,Construction,1,4,4,4,5,7,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+Mhar Ee Enterprise,Services,1,4,5,4,7,7,Yes,12,Neutral,Yes,25 - 34,Prefer Not To Say,Aisyah
+KEREK STORE,Services,4,4,4,4,6,7,Yes,12,Neutral,Yes,25 - 34,Prefer Not To Say,Aisyah
+YOURSTRULEYS NETWORK,Electronics ,5,4,5,4,9,7,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+PERMATA SHAFINA ENTERPRISE,Wholesale and retail,10,4,5,3,1,4,No,24,Neutral,Yes,35 - 44,Female,Meryl
+OMTERA (M) SDN BHD,Construction,4,4,5,1,6,7,No,4,Neutral,Yes,25 - 34,Male,Zakiyah
+Classic Hairbond Studio & Barbershop,Barber,4,4,5,5,4,5,No,6,Neutral,Yes,25 - 34,Male,Zakiyah
+UHB Travel & Tours,Travel,11,4,5,5,3,3,No,5,Neutral,Yes,25 - 34,Male,Zakiyah
+Medicare Line Sdn Bhd,Healthcare,2,4,5,5,4,5,No,2,Neutral,Yes,35 - 44,Female,Zakiyah
+Lands People & Coffee Company,Beverages,8,4,5,5,6,5,No,2,Neutral,Yes,35 - 44,Male,Zakiyah
+Nest Corporate,wholesales ,10,4,5,5,3,3,No,3,Neutral,Yes,25 - 34,Female,Zakiyah
+Shine Group Services Sdn Bhd,Services,2,4,4,4,3,5,No,2,Neutral,Yes,25 - 34,Female,Zakiyah
+Equmed Sdn Bhd,IT,17,4,4,4,5,5,No,11,Positive,Yes,35 - 44,Male,Najiha
+FUN TIME EATERTAINMENT SDN BHD ,F&B,3,4,4,5,11,7,Yes,12,Neutral,Yes,25 - 34,Prefer Not To Say,Aisyah
+ESTABEL TRADING,Apparel,3,4,4,4,5,7,Yes,1,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+Pro global empire sdn bhd,services,10,4,4,3,5,7,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+Aleyya Sdn Bhd,Services,3,4,5,4,5,7,Yes,12,Neutral,Yes,25 - 34,Prefer Not To Say,Aisyah
+Jeppters ,Property,3,4,4,5,5,7,Yes,5,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+BMP ENGINEERING,Construction,5,4,5,4,5,7,Yes,4,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+Inspirasi Hana sdn bhd,Services,8,4,5,5,6,7,Yes,5,Neutral,Yes,25 - 34,Prefer Not To Say,Aisyah
+Keluarga Zah Enterprise ,Services,4,4,5,4,6,7,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+Mhar Ee Enterprise,Enterprise,10,4,5,5,5,7,Yes,1,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+KEREK STORE,Apparel,4,4,5,4,6,7,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+Klinik Doktor Pergigian Low,Dental,3,3,5,4,6,7,Yes,4,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+PREMIUM SIGMA PLUS ,Technology,11,4,4,4,3,5,No,12,Negative,Yes,25 - 34,Prefer Not To Say,Haziq
+E&B LEGACY SDN BHD,wholesaler,45,3,4,4,3,10,No,12,Negative,Yes,25 - 34,Prefer Not To Say,Haziq
+ULTIMATE DAZZLING COSMETIC,Cosmetic ,4,4,5,4,4,3,No,12,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+NH HOLIDAYS TRAVEL & TOURS SDN BHD,Services,6,4,3,4,4,6,No,12,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+GADING EXPERT,wholesaler,6,4,5,4,4,8,No,24,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+RAMBAI KLASIK ENTERPRISE,Food,10,4,5,4,4,8,No,18,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+MFZ ANGKASA TRADING,wholesaler,15,4,5,4,6,4,No,17,Neutral,Yes,25 - 34,Male,Zakiyah
+SUDI MAMPIR SENARIO II AEROPOD,Technology,17,4,3,4,5,2,No,12,Positive,Yes,25 - 34,Male,Zakiyah
+EMZEKA,wholesaler,9,4,5,3,4,3,No,12,Neutral,Yes,25 - 34,Female,Zakiyah
+AROZBINA F&B,Services,7,3,5,3,5,6,No,12,Negative,Yes,35 - 44,Female,Zakiyah
+Smart Integrated Therapy,Healthcare,15,3,5,3,8,8,No,13,Positive,Yes,35 - 44,Female,Najiha
+Quesera.co,wholesaler,3,3,3,5,6,6,No,12,Positive,Yes,35 - 44,Female,Najiha
+Boolu Saloon,Services,1,3,5,4,7,7,No,23,Neutral,Yes,35 - 44,Female,Najiha
+Omrah Travel ,Services,5,4,5,5,6,7,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+Vetreo Legacy ,Services,15,4,4,4,6,2,No,45,Neutral,Yes,35 - 44,Male,Anis
+BAIRUHA ENTERPRISE,Technology,10,4,4,5,9,3,No,19,Neutral,Yes,35 - 44,Male,Anis
+YUSRY PRINT,Services,2,4,4,4,4,5,No,11,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+SA XPERT SERVICES SDN BHD,Technology,9,4,5,5,6,10,No,8,Negative,Yes,25 - 34,Prefer Not To Say,Haziq
+ATRA GLOBAL ENTERPRISE,Services,6,4,5,4,5,10,Yes,11,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+FT SPINE ENTERPRISE,-,5,4,3,5,4,4,No,11,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+SUNFLOWERSHAWL ,Retail,3,4,3,4,4,3,No,6,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+Sudiyo (EDMA Studios),E-commerce service,11,5,5,3,1,1,No,1,Negative,Yes,25 - 34,Female,Alib
+RILGIS SOLUTION,Services,3,4,4,3,1,1,No,1,Neutral,Yes,35 - 44,Female,Alib
+OMBAK SFERA GLOBAL ENTERPRISE,Construction ,7,4,5,4,3,2,No,18,Neutral,Yes,35 - 44,Male,Faiz
+Hytera X Sdn Bhd,Technology,7,4,4,4,6,7,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+Klinik Doktor Pergigian Low,Clinic,3,4,4,4,6,7,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+Syifa Design Plt ,Retail,7,4,3,4,4,7,No,12,Neutral,Yes,,,Nadia
+Handstech Solution Services Sdn Bhd ,Services,8,4,4,4,3,8,No,12,Neutral,Yes,,,Aini
+Cova Medic Sdn Bhd ,Healthcare,10,4,4,4,6,8,No,12,Negative,Yes,,,Danish
+Webcure (M) Sdn Bhd ,Technology,13,4,4,4,5,7,No,12,Neutral,Yes,,,Aini
+Yayasan ArRiayah ,Education ,11,4,4,4,4,6,No,12,Neutral,Yes,,,Farah
+EdxaPay Sdn. Bhd.,Technology,21,4,4,4,3,7,No,12,Neutral,Yes,,,Aini
+SWM KS PLT,Beauty,10,4,4,4,5,8,No,12,Positive,Yes,25 - 34,Female,Haziq
+DATUM SQUAD SDN BHD,F&B,10,4,4,4,5,8,No,12,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+ERIANG HOLDINGS SDN BHD,Construction,33,4,4,3,5,10,No,10,Positive,Yes,35 - 44,Prefer Not To Say,Haziq
+NFZ GROUP SDN BHD,Advertising,20,4,4,3,1,1,No,12,Neutral,Yes,35 - 44,Female,Alib
+ASPIRES 165.SDN BHD,Education,30,4,4,3,2,1,No,12,Neutral,Yes,25 - 34,Female,Alib
+Energy Power Sdn Bhd ,Engineering,10,4,4,3,1,1,No,1,Neutral,Yes,35 - 44,Female,Alib
+Restoran Lepak Salai,Food,9,4,4,4,3,2,No,6,Neutral,Yes,25 - 34,Male,Faiz
+Taska Bintang Desamas,Education,5,4,4,4,2,1,No,12,Negative,Yes,25 - 34,Male,Zakiyah
+Jasly Food Resources ,Manufacturing,6,4,4,5,6,7,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+Sentuhan Jemari Emas Sdn Bhd,Apparel,7,4,4,4,6,7,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+SN HIJAB,Retail,15,4,4,5,4,4,No,14,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+ZONE 79 NETWORK ENTERPRISE / MULTIRICH RESOURCES 2,Services,4,5,4,4,4,7,No,18,Negative,Yes,25 - 34,Prefer Not To Say,Haziq
+FIRJANI HOLIDAYS SDN BHD ,Travel Agent,3,5,4,4,4,2,No,8,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+PERANTI WORKS,Services,2,4,4,4,4,3,No,10,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+AAY TRADING & SERVICES,Services & Trading,10,5,4,5,5,4,No,8,Negative,Yes,25 - 34,Prefer Not To Say,Haziq
+Essofeeya Sdn Bhd,Fashion,12,4,4,1,1,1,No,1,Neutral,Yes,35 - 44,Male,Alib
+Pharmedicare Sdn Bhd,Healthcare,2,5,4,3,1,1,No,1,Neutral,Yes,25 - 34,Female,Alib
+Sbs Beauty,Health & Beauty,5,4,4,3,2,2,No,1,Neutral,Yes,35 - 44,Female,Alib
+AKUSUKAKOPI (M) SDN BHD,Beverages,3,5,4,3,6,7,No,4,Positive,Yes,25 - 34,Male,Zakiyah
+SILVER STRINGS SDN BHD,Advertising,7,4,4,4,5,6,No,4,Neutral,Yes,25 - 34,Male,Zakiyah
+SR Creative Print,Services,4,5,3,5,5,5,No,8,Positive,Yes,35 - 44,Male,Najiha
+FAF Trading & Resources,Food,5,4,3,4,9,9,Yes,7,Positive,Yes,25 - 34,Male,Najiha
+Mhar Ee Enterprise,Services,10,5,3,5,6,7,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+Nia ampera caters,F&B ,3,4,4,4,6,7,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+MI MYFA SHOPPE (AMIRULNOR GADGET),Telecommunication,4,5,5,5,6,7,Yes,12,Neutral,Yes,35 - 44,Prefer Not To Say,Aisyah
+Luxuera Global Sdn Bhd > FMLUXE BEAUTY SDN BHD,Services ,20,3,5,4,1,4,No,12,Neutral,Yes,25 - 34,Male,Yaya
+Nuhayra Enterprise ,Services ,10,5,5,5,2,5,No,12,Negative,Yes,25 - 34,Male,Yaya
+GMK Group Sdn Bhd ,Constructions ,45,3,4,4,1,4,No,12,Neutral,Yes,35 - 44,Male,Meryl
+UstazHarry Umrah Travel Services Sdn Bhd,Services,11,3,4,5,1,3,No,24,Neutral,Yes,25 - 34,Female,Meryl
+Klinik Pergigian Idramawar,Services,6,3,4,4,1,3,No,24,Neutral,Yes,35 - 44,Female,Meryl
+The Panaderia,Food & Beverages,10,3,4,4,3,3,No,12,Neutral,,,Prefer Not To Say,Nisa
+PURRLOVE MAJUTERUS ENTERPRISE / PURRLOVE TERUSMAJU RESOURCES,Animal Healthcare,4,4,4,4,4,8,No,24,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+GALAXY MERCHANT (M) SDN BHD,Construction,10,5,5,4,4,8,No,12,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+DE RICHE LURVE SDN BHD ,Retail,5,4,4,4,4,8,No,22,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+KAB GOLDYNAMICS SDN. BHD.,Trading,20,5,5,4,2,2,No,12,Neutral,Yes,35 - 44,Male,Alib
+Elza Wellness International Sdn Bhd,Healthcare,10,4,4,4,3,4,No,12,Negative,Yes,35 - 44,Female,Alib
+Printeck Pro Sdn Bhd ,Advertising,10,5,5,4,,,,,,Yes,,,Alib
+Food Project Delights,Food,10,4,4,4,2,1,No,12,Neutral,Yes,,Prefer Not To Say,Faiz
+Fabulous Heejab Sdn Bhd ,Retail,12,5,5,4,6,4,No,27,Neutral,Yes,25 - 34,Female,Anis
+Ezy Meta Group Sdn. Bhd.,Services,7,4,4,4,2,1,No,12,Neutral,Yes,,Female,Faiz
+R35pect Empire Sdn Bhd,Business,15,5,5,4,,,,,,Yes,,,Aini
+METAFANIA DREAM BUSINESS,Retail,10,4,4,4,5,6,No,24,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+MUTO KOPI,Services,14,5,5,4,5,5,No,24,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+KAY EMPIRE GROUP SDN BHD,Retail,10,4,4,4,4,4,No,24,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+NYE LEGACY SDN BHD,Services,6,5,5,4,5,5,No,12,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+ARTEFFECTS SDN. BHD,Entertainment,6,4,4,4,8,4,No,24,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+FLORELLA CAFE,Services,10,5,5,4,2,2,No,12,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+BEKKI GROUP SDN BHD (DESA NUR GROUP),Technology,10,4,4,4,5,5,No,24,Positive,Yes,25 - 34,Prefer Not To Say,Haziq
+JASAMAJU ENTERPRISE,Wholesaler ,15,5,4,4,2,1,No,12,Neutral,Yes,35 - 44,Male,Faiz
+GANGSA SETIA SDN BHD,Oil ,0,4,4,4,2,1,No,12,Neutral,Yes,35 - 44,Male,Faiz
+PRO INTEGRATED POWER ENGINEERING,Wholesaler ,15,5,4,4,2,2,No,12,Neutral,Yes,25 - 34,Female,Faiz
+MONTANA BUILDERS SDN BHD ,Construction ,16,4,4,4,3,2,No,6,Neutral,Yes,35 - 44,Male,Faiz
+AROZ BINA F&B SDN BHD,Services,10,5,4,4,2,2,No,12,Neutral,Yes,,Female,Faiz
+GREN TRE PRINTING SDN BHD ,Services,6,4,4,4,4,4,No,6,Neutral,Yes,35 - 44,Female,Faiz
+TADIKA NURUL TAQWA,Education,5,5,4,5,5,5,No,12,Neutral,Yes,25 - 34,Male,Faiz
+TASKA NURUL TAQWA,Education,3,4,4,5,5,5,No,12,Neutral,Yes,25 - 34,Male,Faiz
+PUSAT JAGAAN NURUL TAQWA,Education,4,5,4,5,5,5,No,12,Neutral,Yes,25 - 34,Male,Faiz
+ADN International Sdn Bhd,Manufacturer,0,4,5,5,3,3,No,12,Neutral,Yes,25 - 34,Male,Zakiyah
+ADN Trading & Services,TRADING & SERVICES,3,5,4,5,3,3,No,12,Neutral,Yes,25 - 34,Male,Zakiyah
+Imtiaz Ventures Sdn Bhd,Services,19,4,5,5,8,8,No,12,Neutral,Yes,25 - 34,Female,Najiha
+Imhomestylist Sdn Bhd,Services,5,5,4,5,8,8,No,12,Positive,Yes,25 - 34,Female,Najiha
